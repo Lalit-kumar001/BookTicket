@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookTicket/static/css/main.19dbeac9.css",
+    "main.js": "/BookTicket/static/js/main.6d683dc3.js",
+    "index.html": "/BookTicket/index.html",
+    "main.19dbeac9.css.map": "/BookTicket/static/css/main.19dbeac9.css.map",
+    "main.6d683dc3.js.map": "/BookTicket/static/js/main.6d683dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19dbeac9.css",
+    "static/js/main.6d683dc3.js"
+  ]
+}
