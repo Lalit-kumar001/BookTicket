@@ -1,0 +1,79 @@
+@media (min-width:725px) {
+body{
+    background-color: black;
+    color: white;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+}
+.left{
+    width: 20%;
+    /* height: 500px; */
+    margin-top: 2%;
+
+}
+
+.right{
+    width: 80%;
+    margin-top: 2%;
+    margin-left: 12%;
+    
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+}
+.heading{
+    /* text-align: center; */
+    margin-left: 1%;
+}
+p{
+    margin-left: 1%;
+}
+.know-more{
+    margin-left: 1%;
+}
+
+}
+/* for 723  */
+
+@media (max-width:725px) {
+    body{
+        background-color: black;
+        color: white;
+    }
+    .left{
+        margin-top: 2%;
+        width: 100%;
+      
+    }
+    .left img{
+      
+     height: 100%;
+
+    }
+    .img-div{
+        margin: auto;
+        width: 50%;
+    }
+    
+    .right{
+        width: 50%;
+        margin-top: 2%;
+       
+    }
+    .parent{
+        display: flex;
+        flex-direction: column;
+    }
+    .heading{
+        /* text-align: center; */
+        margin-left: 1%;
+    }
+    p{
+        margin-left: 1%;
+        /* text-align: center; */
+    }
+    
+}
